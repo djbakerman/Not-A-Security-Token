@@ -6,7 +6,7 @@ NotASecurity (NAS) is a novel ERC-20 token on the Ethereum blockchain designed t
 
 Introduction
 
-NAS is an innovative experiment in tokenomics, aiming to explore new dynamics in the crypto economy. Unlike most tokens that aim for price appreciation, NAS is designed to decrease in value over time by continuously increasing the supply. With absolutely no expectation of profit, this fails the howy test and therefore is NOT a security per the SEC guidelines.
+NAS is an innovative experiment in tokenomics, aiming to explore new dynamics in the crypto economy. Unlike most tokens that aim for price appreciation, NAS is designed to decrease in value over time by continuously increasing the supply. With absolutely no expectation of profit, this fails the Howey Test and therefore is NOT a security per the SEC guidelines.
 
 Tokenomics
 
